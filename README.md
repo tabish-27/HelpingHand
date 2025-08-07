@@ -1,12 +1,46 @@
-# React + Vite
+# HelpingHandNGO 🌍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professionally designed NGO website built with **React** and **Tailwind CSS**, dedicated to supporting social causes, encouraging volunteer participation, and driving meaningful community impact.
 
-Currently, two official plugins are available:
+🔗 [Live Website](https://helping-hand-woad.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 💻 Fully responsive modern UI (desktop + mobile)
+- 🎨 Clean design with smooth scroll, animations, and hover effects
+- 🧭 Intuitive navigation with React Router
+- 👥 Volunteer form to collect submissions
+- 📄 Structured Home, About, and Volunteer pages
+- 🌐 Deployed on **Vercel** for fast and reliable hosting
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS
+- **Routing**: React Router DOM
+- **Deployment**: Vercel
+
+## 📁 Folder Structure
+src/
+├── assets/ # Images and icons
+├── components/ # Navbar, Footer, Buttons etc.
+├── pages/ # Home, About, Volunteer pages
+├── App.jsx # Main component with routes
+└── index.js # Entry point
+
+
+## 🚀 Getting Started (Development)
+git clone https://github.com/your-username/helping-hand-ngo.git
+cd helping-hand-ngo
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+🙋‍♂️ Contributing
+We welcome contributions! Feel free to open issues or PRs to improve features, UI, or performance.
+
+📌 License
+This project is open source and available under the MIT License.
+
+Developed with ❤️ by Tabish Javed
